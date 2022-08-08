@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/dev/repo/Android/business-card/business-card-app/app/src/main/res/drawable-v24/ic_close.xml" value="0.2145" />
         <entry key="..\:/dev/repo/Android/business-card/business-card-app/app/src/main/res/drawable/add_card-48px.xml" value="0.2145" />
+        <entry key="..\:/dev/repo/Android/business-card/business-card-app/app/src/main/res/drawable/ic_card.xml" value="0.2165" />
+        <entry key="..\:/dev/repo/Android/business-card/business-card-app/app/src/main/res/layout/activity_add_business_card.xml" value="0.18" />
         <entry key="..\:/dev/repo/Android/business-card/business-card-app/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/dev/repo/Android/business-card/business-card-app/app/src/main/res/layout/item_business_card.xml" value="0.5" />
+        <entry key="..\:/dev/repo/Android/business-card/business-card-app/app/src/main/res/layout/item_business_card.xml" value="0.25" />
       </map>
     </option>
   </component>

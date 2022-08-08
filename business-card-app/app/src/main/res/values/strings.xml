@@ -5,4 +5,14 @@
     <string name="tv_phone">Phone</string>
     <string name="tv_email">E-mail</string>
     <string name="tv_business_name">MyKart</string>
+    <string name="ic_close">Close</string>
+    <string name="new_card_description">New card</string>
+    <string name="label_name">Name</string>
+    <string name="label_phone">Phone</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_company">Company</string>
+    <string name="label_color">Color</string>
+    <string name="bt_confirme">Confirme</string>
+    <string name="label_show_success">Success!!</string>
+
 </resources>
