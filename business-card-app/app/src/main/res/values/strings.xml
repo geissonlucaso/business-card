@@ -14,5 +14,6 @@
     <string name="label_color">Color</string>
     <string name="bt_confirme">Confirme</string>
     <string name="label_show_success">Success!!</string>
+    <string name="label_share">Share</string>
 
 </resources>
